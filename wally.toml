@@ -1,0 +1,13 @@
+[package]
+name = "stefan/rojo-template"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
+LuauPollyfills = "core-packages/luau-polyfill@1.1.0"
+Janitor = "howmanysmall/janitor@1.15.1"
+Signal = "lucasmzreal/fastsignal@10.2.1"
+t = "osyrisrblx/t@3.0.0"
+Sift = "csqrl/sift@0.0.6"

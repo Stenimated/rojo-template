@@ -1,0 +1,10 @@
+# Project place file
+/rojo-template.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap
+Packages
+ServerPackages

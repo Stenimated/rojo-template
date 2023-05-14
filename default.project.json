@@ -1,0 +1,71 @@
+{
+  "name": "your-project-name",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "assets/default/ReplicatedStorage.rbxm",
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "Packages": {
+        "$path": "Packages"
+      },
+      "Client": {
+        "$path": "src/client/Modules"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/server"
+    },
+    "StarterPlayer": {
+      "$path": "assets/default/StarterPlayer.rbxm",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/client/AfterLoad"
+      },
+      "StarterCharacterScripts": {
+        "$className": "StarterCharacterScripts",
+        "$path": "src/client/CharacterLoad"
+      }
+    },
+    "ReplicatedFirst": {
+      "Client": {
+        "$path": "src/client/BeforeLoad"
+      }
+    },
+    "Chat": {
+      "$path": "assets/default/Chat.rbxm"
+    },
+    "HttpService": {
+      "$path": "assets/default/HttpService.rbxm"
+    },
+    "Lighting": {
+      "$path": "assets/default/Lighting.rbxm"
+    },
+    "LocalizationService": {
+      "$path": "assets/default/LocalizationService.rbxm"
+    },
+    "Players": {
+      "$path": "assets/default/Players.rbxm"
+    },
+    "SoundService": {
+      "$path": "assets/default/SoundService.rbxm"
+    },
+    "StarterGui": {
+      "$path": "assets/default/StarterGui.rbxm"
+    },
+    "VoiceChatService": {
+      "$path": "assets/default/VoiceChatService.rbxm"
+    },
+    "Workspace": {
+      "$path": "assets/default/Workspace.rbxmx",
+      "Terrain": {
+        "$className": "Terrain"
+      }
+    },
+    "ServerStorage": {
+      "$path": "assets/default/ServerStorage.rbxm"
+    }
+  }
+}
